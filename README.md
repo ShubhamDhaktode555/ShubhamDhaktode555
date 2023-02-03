@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShubhamDhaktode555 my name is shubham dhaktode
-- 👀 I’m interested in web devepment
-- 🌱 I’m currently learning java and DSA 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in Frond End Development
+- 🌱 I’m currently learning HTML CSS JS REACT.JS
 - 📫 How to reach me ...
 
 <!---
